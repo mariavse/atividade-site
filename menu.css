@@ -1,0 +1,21 @@
+ul{
+    display: flex;
+    font-size: 25px;
+
+}
+
+li{
+    padding: 5px;
+    list-style: none;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    border: 2px solid   #666;
+    border-radius: 5px;
+}
+a:hover {
+    color: gray;
+}
